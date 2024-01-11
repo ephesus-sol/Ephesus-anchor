@@ -4,14 +4,14 @@
 seeds = false
 skip-lint = false
 
-[programs.localnet]
+[programs.devnet]
 sol_hunter = "7sgkU1bPgYrGMGjvw2CwnM9qDLvqnswKSA9hdk7BaZ1w"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "Devnet"
 wallet = "/Users/alfie/.config/solana/id.json"
 
 [scripts]
